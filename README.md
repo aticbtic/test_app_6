@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+8/9/2020 This is to understand that the git is setup correctly and that files are tracked.
